@@ -2,4 +2,4 @@
 
 TP de GME du S5, note : 19/20
 
-Telechargez les fichiers en .ipynb sur votre ordi pour une meilleurs lisibilité, marche à suivre : code -> download zip
+Telechargez les fichiers en .ipynb sur votre ordi pour une meilleurs lisibilité
